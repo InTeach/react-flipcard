@@ -1,36 +1,85 @@
 {
-  "name": "react-flipcard",
-  "version": "0.2.1",
-  "description": "React flip card component",
-  "main": "lib/main.js",
-  "scripts": {
-    "test": "rackt test --single-run --browsers Firefox",
-    "start": "rackt server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mzabriskie/react-flipcard.git"
-  },
-  "keywords": [
-    "react-component"
+  "_args": [
+    [
+      {
+        "raw": "react-flipcard@^0.2.1",
+        "scope": null,
+        "escapedName": "react-flipcard",
+        "name": "react-flipcard",
+        "rawSpec": "^0.2.1",
+        "spec": ">=0.2.1 <0.3.0",
+        "type": "range"
+      },
+      "/Users/Val/Programmation/getknow"
+    ]
   ],
-  "author": "Matt Zabriskie",
-  "license": "MIT",
+  "_from": "react-flipcard@>=0.2.1 <0.3.0",
+  "_id": "react-flipcard@0.2.1",
+  "_inCache": true,
+  "_location": "/react-flipcard",
+  "_nodeVersion": "3.3.1",
+  "_npmUser": {
+    "name": "mzabriskie",
+    "email": "mzabriskie@gmail.com"
+  },
+  "_npmVersion": "2.14.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-flipcard@^0.2.1",
+    "scope": null,
+    "escapedName": "react-flipcard",
+    "name": "react-flipcard",
+    "rawSpec": "^0.2.1",
+    "spec": ">=0.2.1 <0.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-flipcard/-/react-flipcard-0.2.1.tgz",
+  "_shasum": "7d439c5755e5a58d81ddea0c8ff0712c3d8e8048",
+  "_shrinkwrap": null,
+  "_spec": "react-flipcard@^0.2.1",
+  "_where": "/Users/Val/Programmation/getknow",
+  "author": {
+    "name": "Matt Zabriskie"
+  },
   "bugs": {
     "url": "https://github.com/mzabriskie/react-flipcard/issues"
   },
-  "homepage": "https://github.com/mzabriskie/react-flipcard",
-  "devDependencies": {
-    "rackt-cli": "^0.5.3",
-    "react": "^0.14.0",
-    "react-addons-test-utils": "^0.14.0",
-    "react-dom": "^0.14.0"
+  "dependencies": {
+    "classnames": "^2.2.0"
   },
+  "description": "React flip card component",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7d439c5755e5a58d81ddea0c8ff0712c3d8e8048",
+    "tarball": "https://registry.npmjs.org/react-flipcard/-/react-flipcard-0.2.1.tgz"
+  },
+  "homepage": "https://github.com/mzabriskie/react-flipcard",
+  "keywords": [
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "lib/main.js",
+  "maintainers": [
+    {
+      "name": "mzabriskie",
+      "email": "mzabriskie@gmail.com"
+    }
+  ],
+  "name": "react-flipcard",
+  "optionalDependencies": {},
   "peerDependencies": {
     "react": "^0.14.0",
     "react-dom": "^0.14.0"
   },
-  "dependencies": {
-    "classnames": "^2.2.0"
-  }
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzabriskie/react-flipcard.git"
+  },
+  "scripts": {},
+  "version": "0.2.1"
 }
